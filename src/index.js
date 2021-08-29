@@ -14,6 +14,7 @@ function App() {
         <a
           href="https://github.com/Ingrid-98/react-weather-app"
           target="_blank"
+          rel="noreferrer"
         >
           Open-source code
         </a>
@@ -21,6 +22,7 @@ function App() {
         <a
           href="https://www.linkedin.com/in/ingrid-opdebeeck-1b1b11148/"
           target="_blank"
+          rel="noreferrer"
         >
           Ingrid Opdebeeck
         </a>{" "}
